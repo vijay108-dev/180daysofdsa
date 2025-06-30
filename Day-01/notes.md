@@ -153,7 +153,7 @@ Before transistors **vacuum tubes** were used for switching.
 
 ---
 
-### ❓ Q1: What is Moore’s Law?
+###  Q1: What is Moore’s Law?
 
 **Moore’s Law** states that:
 
@@ -165,7 +165,7 @@ Before transistors **vacuum tubes** were used for switching.
 ## Machine vs Assembly vs High-Level Languages 
 
 ---
-### ⚙️ Q1: What is Machine Language? 
+###  Q1: What is Machine Language? 
 
 - It is the **lowest-level language**  
 - Written in **binary (0s and 1s)**  
@@ -214,9 +214,9 @@ Before transistors **vacuum tubes** were used for switching.
 
 ### InShort:
 
-> ✅ Machine Language → Fastest but unreadable  
-> ✅ Assembly Language → Slightly readable still complex.  
-> ✅ High-Level Language → Easy to use portable human-friendly.
+>  Machine Language → Fastest but unreadable  
+> Assembly Language → Slightly readable still complex.  
+> High-Level Language → Easy to use portable human-friendly.
 
 ---
 
