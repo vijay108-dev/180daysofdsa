@@ -204,7 +204,7 @@ Before transistors **vacuum tubes** were used for switching.
 
 ### Q4: Comparison Table
 
-|  **Language Type**     |  **Who understands it?**   |   **Readable by humans?** | ⚡ **Speed**  |  **Needs Translator?**       |
+|  **Language Type**     |  **Who understands it?**   |   **Readable by humans?** |  **Speed**  |  **Needs Translator?**       |
 |-------------------------|-----------------------------|------------------------------|---------------|-------------------------------|
 |  Machine Language      | CPU (Directly)              |  No                         |  Very Fast  |  No (already machine code)  |
 |  Assembly Language     | CPU (After assembling)      | Difficult                 |  Fast       |  Assembler needed           |
